@@ -90,17 +90,17 @@ A Red Hat Certified System Administrator (RHCSA) is able to perform the followin
 - [ps - Listing and Managing Linux Process - RHCSA]
 - [Access Linux machine using GUI and CLI1]
 
-- [Shell Scripting Tutorial-3 Linux Directory Structure Amazing way to understand](https://www.youtube.com/watch?v=rVxpe1_lNFE)
-- [Shell Scripting Tutorial-2 Linux Basics - Linux basic commands](https://www.youtube.com/watch?v=IFvMor-0eFM)
-- [Shell Scripting Tutorial-4 Basic Commands touch, cat, ls, cd, date, cal and pwd](https://www.youtube.com/watch?v=yYC8aaQ3eZA)
-- [Shell Scripting Tutorial-5 Copy, Remove, Move and Time Commands](https://www.youtube.com/watch?v=G7XFreQkDB8)
-- [Shell Scripting Tutorial-6 diff and grep command with regular expressions](https://www.youtube.com/watch?v=RwcQ6JzTsmA)
-- [Shell Scripting Tutorial-7 head, tail, sort and more commands How to check logs using these commands](https://www.youtube.com/watch?v=OgV3qrPQulU)
-- [Shell Scripting Tutorial-8 tr and wc command Count file characters, lines and words](https://www.youtube.com/watch?v=d40a5zFa8yI)
-- [Shell Scripting Tutorial-9 Linux Disk Utilities to get required information](https://www.youtube.com/watch?v=vx1WZepOmKg)
-- [Shell Scripting Tutorial-10 Getting Help from Command Line Interface](https://www.youtube.com/watch?v=GcYu-0IIJas)
-- [Shell Scripting Tutorial-11 w, who, hostname, hostnamectl and uname commands](https://www.youtube.com/watch?v=7shAr5lp_Wc)
-- [Shell Scripting Tutorial-12 find and locate command to search for files and directories](https://www.youtube.com/watch?v=Rd6e-OrsHpo)
-- [Shell Scripting Tutorial-13 top command analyzing system performance](https://www.youtube.com/watch?v=UQ7rr4_47YY)
-- [Shell Scripting Tutorial-14 Text Editors Nano and Vi](https://www.youtube.com/watch?v=K3SUrcJ740Y)
-- [shell scripting Tutorial-15 sed, awk, vmstat, netstat and mail](https://www.youtube.com/watch?v=4hJorSKg9E0)
+- [Shell Scripting Tutorial-3 Linux Directory Structure Amazing way to understand]
+- [Shell Scripting Tutorial-2 Linux Basics - Linux basic commands]
+- [Shell Scripting Tutorial-4 Basic Commands touch, cat, ls, cd, date, cal and pwd]
+- [Shell Scripting Tutorial-5 Copy, Remove, Move and Time Commands]
+- [Shell Scripting Tutorial-6 diff and grep command with regular expressions]
+- [Shell Scripting Tutorial-7 head, tail, sort and more commands How to check logs using these commands]
+- [Shell Scripting Tutorial-8 tr and wc command Count file characters, lines and words]
+- [Shell Scripting Tutorial-9 Linux Disk Utilities to get required information]
+- [Shell Scripting Tutorial-10 Getting Help from Command Line Interface]
+- [Shell Scripting Tutorial-11 w, who, hostname, hostnamectl and uname commands]
+- [Shell Scripting Tutorial-12 find and locate command to search for files and directories]
+- [Shell Scripting Tutorial-13 top command analyzing system performance]
+- [Shell Scripting Tutorial-14 Text Editors Nano and Vi]
+- [shell scripting Tutorial-15 sed, awk, vmstat, netstat and mail]
